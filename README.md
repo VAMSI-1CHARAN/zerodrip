@@ -1,6 +1,6 @@
-# Z3RO DRIP – Unveiling Soon 🚀
+# ZERO DRIP – Unveiling Soon 🚀
 
-This is a simple **coming soon website** for **Z3RO DRIP**, a streetwear clothing brand.  
+This is a simple **coming soon website** for **ZERO DRIP**, a streetwear clothing brand.  
 The site features:  
 - A **full-screen video background** 🎥  
 - Minimalist **logo placement** at the top-left  
